@@ -13,7 +13,7 @@ I am currently learning DevOps, <br>and I want to become DevOps Engineer, <br>I 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DananjayaFernando98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DananjayaFernando98&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DananjayaFernando98&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=SSDananjaya)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
