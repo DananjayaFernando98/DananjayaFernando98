@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning DevOps, <br>and I want to become DevOps Engineer, <br>I most like that area and am very imprison in that and I want should become a DevOps Engineer
+I am currently learning Quality Assurance, <br>and I want to become Quality Assurance Engineer, <br>I most like that area and am very imprison in that and I want should become a Quality Assurance Engineer
 
 
 ## 🌐 Socials:
