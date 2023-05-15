@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Quality Assurance, <br>and I want to become Quality Assurance Engineer, <br>I most like that area and am very imprison in that and I want should become a Quality Assurance Engineer
+I am currently learning , <br>and I want to become Engineer, <br>I most like that area and am very imprison in that and I want should become a  Engineer
 
 
 ## 🌐 Socials:
